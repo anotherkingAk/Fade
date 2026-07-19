@@ -46,8 +46,8 @@ Run `python config.py` any time to re-verify these numbers — pure arithmetic, 
 ## Quickstart
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/fade-model.git
-cd fade-model
+git clone https://github.com/anotherkingAk/Fade.git
+cd Fade
 pip install -r requirements.txt
 python config.py     # verify parameter counts
 python model.py       # build the model and print its parameter count
@@ -87,13 +87,10 @@ Contributions toward any of these are very welcome — see [CONTRIBUTING.md](CON
 
 Building, documenting, and eventually training models at this scale takes
 real time and (eventually) real compute cost. If this project is useful
-to you, donations go toward continued development and — longer term —
+to you, sponsoring goes toward continued development and — longer term —
 actually training a model on this architecture:
 
-<a href="https://www.buymeacoffee.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-support-ffdd00?logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
-<a href="https://github.com/sponsors/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GitHub%20Sponsors-support-EA4AAA?logo=github-sponsors&logoColor=white" alt="GitHub Sponsors"></a>
-
-*(Replace `YOUR-USERNAME` / `YOUR-GITHUB-USERNAME` above and in `.github/FUNDING.yml` with your real accounts before publishing — as placeholders they won't work.)*
+<a href="https://github.com/sponsors/anotherkingAk"><img src="https://img.shields.io/badge/GitHub%20Sponsors-support-EA4AAA?logo=github-sponsors&logoColor=white" alt="GitHub Sponsors"></a>
 
 ## License
 

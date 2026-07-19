@@ -18,8 +18,8 @@ infrastructure improvements.
 ## Development setup
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/fade-model.git
-cd fade-model
+git clone https://github.com/anotherkingAk/Fade.git
+cd Fade
 pip install -r requirements.txt
 python config.py   # sanity check the parameter count math, no GPU needed
 ```

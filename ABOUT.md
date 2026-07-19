@@ -4,7 +4,8 @@
 
 </div>
 
-Hi, I'm **Kypuvari Chandu** — people also call me **AK**.
+Hi, I'm **Kypuvari Chandu** — people also call me **AK**. I'm from
+Andhra Pradesh, India.
 
 I'm the founder of **ShadowCode**, a small company built on one simple
 belief: the best tools come from actually caring about the problems they
@@ -46,9 +47,7 @@ is worth building.
 
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-support%20ShadowCode-ffdd00?logo=buy-me-a-coffee&logoColor=black&style=for-the-badge" alt="Buy Me a Coffee"></a>
-
-<a href="https://github.com/sponsors/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GitHub%20Sponsors-support%20this%20work-EA4AAA?logo=github-sponsors&logoColor=white&style=for-the-badge" alt="GitHub Sponsors"></a>
+<a href="https://github.com/sponsors/anotherkingAk"><img src="https://img.shields.io/badge/GitHub%20Sponsors-support%20this%20work-EA4AAA?logo=github-sponsors&logoColor=white&style=for-the-badge" alt="GitHub Sponsors"></a>
 
 </div>
 
