@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.svg" alt="Fade — 3.1T Parameter MoE Architecture" width="100%">
+
 # 🌒 Fade
 
 **A 3.1T-parameter Mixture-of-Experts architecture for code generation**
