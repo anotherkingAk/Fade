@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/fade-banner.png" alt="Fade — Version V1, 3.1 Trillion Parameter Model (Untrained)" width="100%">
+<img src="https://github.com/anotherkingAk/Fade/blob/f8d3d82f37c0a862ef3da2d8c5c05017008d6f99/fade-banner.png" alt="Fade — Version V1, 3.1 Trillion Parameter Model (Untrained)" width="100%">
 
 # 🌒 Fade
 
