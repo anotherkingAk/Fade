@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Fade — 3.1T Parameter MoE Architecture" width="100%">
+<img src="assets/fade-banner.png" alt="Fade — Version V1, 3.1 Trillion Parameter Model (Untrained)" width="100%">
 
 # 🌒 Fade
 
